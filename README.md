@@ -1,6 +1,6 @@
 # Oxford-Dictionary
 This is a Dictionary written in python, you can search for meanings of any word which is on your mind
-------------------------------------------------------------
+-
 This is Program in python to basically search for the meaning of any word you wish to search.
 I have also added an additional feature to the program ie:- It also shows you suggestion for the closet word for your searched word if in any case you have misspelled or the word does not exist in the dictionary,it will show you the recommendation for that word
 
